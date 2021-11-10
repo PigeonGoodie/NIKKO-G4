@@ -1,0 +1,5 @@
+#Ignores large asset-packs
+
+Asset_packs
+CyberPunkMegapack
+Megascans
