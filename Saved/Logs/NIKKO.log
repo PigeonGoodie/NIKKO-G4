@@ -1642,3 +1642,498 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-15.33.00:862][ 55]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-15.33.00:863][ 55]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
 [2021.11.11-15.33.00:863][ 55]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
+[2021.11.11-15.34.32:576][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Ring16)
+[2021.11.11-15.34.35:199][788]Cmd: EDIT COPY
+[2021.11.11-15.34.35:477][802]Cmd: EDIT PASTE
+[2021.11.11-15.34.39:894][ 61]LogEditorViewport: Clicking Background
+[2021.11.11-15.34.47:850][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight8)
+[2021.11.11-15.34.52:556][808]Cmd: EDIT COPY
+[2021.11.11-15.34.52:893][825]Cmd: EDIT PASTE
+[2021.11.11-15.35.01:055][303]Cmd: DELETE
+[2021.11.11-15.35.01:055][303]Cmd: ACTOR DELETE
+[2021.11.11-15.35.01:085][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-15.35.01:086][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-15.35.01:120][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.11-15.35.01:126][303]LogEditorActor: Deleted 2 Actors (0.070 secs)
+[2021.11.11-15.35.09:369][769]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.11-15.35.59:223][571]LogEditorViewport: Clicking Background
+[2021.11.11-15.36.02:164][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight8)
+[2021.11.11-15.36.06:561][997]Cmd: EDIT COPY
+[2021.11.11-15.36.06:970][ 16]Cmd: EDIT PASTE
+[2021.11.11-15.36.11:502][283]LogEditorViewport: Clicking Background
+[2021.11.11-15.36.15:937][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight14)
+[2021.11.11-15.36.19:111][728]Cmd: EDIT COPY
+[2021.11.11-15.36.19:365][742]Cmd: EDIT PASTE
+[2021.11.11-15.36.28:089][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight15)
+[2021.11.11-15.36.29:902][350]Cmd: EDIT COPY
+[2021.11.11-15.36.30:171][366]Cmd: EDIT PASTE
+[2021.11.11-15.36.37:721][802]LogEditorViewport: Clicking Background
+[2021.11.11-15.36.42:077][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight10)
+[2021.11.11-15.36.43:861][160]Cmd: EDIT COPY
+[2021.11.11-15.36.44:145][177]Cmd: EDIT PASTE
+[2021.11.11-15.36.54:803][790]LogEditorViewport: Clicking Background
+[2021.11.11-15.37.08:051][564]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.11-15.37.25:405][487]Cmd: TRANSACTION UNDO
+[2021.11.11-15.37.25:405][487]LogEditorTransaction: Undo Move Actors
+[2021.11.11-15.37.25:543][487]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.11.11-15.37.25:543][487]LogGeometryMode: Warning: Unable to resolve BoxBrush21 Brush in new BSP, see above
+[2021.11.11-15.37.25:543][487]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.11.11-15.37.42:488][409]LogEditorViewport: Clicking Background
+[2021.11.11-15.37.43:577][473]LogEditorViewport: Clicking Background
+[2021.11.11-15.37.43:998][498]LogEditorViewport: Clicking Background
+[2021.11.11-15.37.51:216][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.11-15.37.51:493][926]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2CDCF639541FB676539FAD5BAB81ADA33.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.umap'
+[2021.11.11-15.37.51:685][926]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2_BuiltDataB2816D16455AEFB6E09D7A9604DEAE44.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.uasset'
+[2021.11.11-15.37.51:705][926]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-15.37.51:705][926]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
+[2021.11.11-15.37.51:705][926]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
+[2021.11.11-15.38.45:511][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NPC3)
+[2021.11.11-15.38.52:541][565]LogEditorViewport: Clicking Background
+[2021.11.11-15.39.03:091][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.11.11-15.39.03:366][194]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox287A185D2448F8F4DA2B0779955C90E80.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.umap'
+[2021.11.11-15.39.03:549][194]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2_BuiltDataF3FA375C4BBAF72E08B6338511CFCF7B.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.uasset'
+[2021.11.11-15.39.03:567][194]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-15.39.03:567][194]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
+[2021.11.11-15.39.03:567][194]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
+[2021.11.11-15.40.54:212][803]MapCheck: New page: Map Check
+[2021.11.11-15.40.54:239][803]Cmd: MAP REBUILD ALLVISIBLE
+[2021.11.11-15.40.54:239][803]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.11.11-15.40.55:215][803]LogWorld: UWorld::CleanupWorld for Chapter4_greybox2, bSessionEnded=true, bCleanupResources=false
+[2021.11.11-15.40.55:455][803]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.11.11-15.40.55:455][803]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.11.11-15.40.55:455][803]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.11.11-15.40.55:492][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.11.11-15.40.55:518][803]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2021.11.11-15.40.55:524][803]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2021.11.11-15.40.55:551][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-15.40.55:555][803]LightingResults: New page: Lighting Build - 11. nov. 2021, 17:40:55
+[2021.11.11-15.40.55:731][803]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.11.11-15.40.55:851][803]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.11.11-15.40.55:911][803]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.11.11-15.40.56:448][803]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.11.11-15.40.56:448][803]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19288
+[2021.11.11-15.40.59:197][803]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.11.11-15.40.59:203][803]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.11.11-15.40.59:203][803]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.11.11-15.40.59:203][803]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.11.11-15.40.59:203][803]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.11.11-15.40.59:203][803]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.11.11-15.40.59:511][803]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.11.11-15.40.59:512][803]MapCheck: New page: Chapter4_greybox2 - 11. nov. 2021, 17:40:59
+[2021.11.11-15.40.59:513][803]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb_196 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb2 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb3 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb4 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb5 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb6 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb7 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb8 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb9 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb10 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb11 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb12 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb13 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb14 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb15 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb16 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb17 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb18 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb19 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb20 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:515][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb21 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb22 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb23 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb24 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb25 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb26 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb27 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb28 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb29 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb30 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb31 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb32 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb33 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb34 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb35 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb36 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb37 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb38 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb39 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb40 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb41 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb42 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb43 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb44 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb45 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb46 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb47 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb48 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb49 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb50 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb51 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:516][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb52 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb53 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb54 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb55 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb56 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb57 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb58 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb59 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb60 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb61 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb62 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb63 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb64 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb65 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb66 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb67 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb68 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb69 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb70 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb71 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb72 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb73 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb74 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb75 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb76 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb77 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb78 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb79 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb80 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:517][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb81 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb82 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb83 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb84 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb85 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb86 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb87 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb88 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb89 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb90 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb91 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb92 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb93 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb94 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb95 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb96 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb97 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb98 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb99 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb100 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb101 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb102 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb103 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb104 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb105 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb106 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb107 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb108 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb109 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:518][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb110 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb111 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb112 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb113 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb114 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb115 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb116 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb117 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb118 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb119 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb120 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb121 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb122 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb123 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb124 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb125 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb126 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb127 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb128 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb129 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb130 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb131 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb132 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb133 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:519][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb134 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb135 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb136 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb137 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb138 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb139 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb140 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb141 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb142 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb143 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb144 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb145 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb146 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb147 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb148 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb149 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb150 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb151 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb152 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb153 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb154 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb155 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb156 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb157 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:520][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb158 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb159 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb160 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb161 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb162 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb163 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb164 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb165 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb166 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb167 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb168 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb169 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb170 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb171 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb172 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb173 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb174 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb175 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:521][803]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb176 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.40.59:522][803]MapCheck: Map check complete: 1 Error(s), 176 Warning(s), took 10,244ms to complete.
+[2021.11.11-15.40.59:526][803]LogEditorBuildUtils: Build time 0:05
+[2021.11.11-15.41.00:276][804]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Betong in PCD3D_SM5, Default, SM5 (DDC key hash: 6B503649CF14D8FC196B2B8F89742B05E95DF9DC), compiling. 
+[2021.11.11-15.41.00:298][804]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.11.11-15.41.00:301][804]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Betong in PCD3D_SM5, Default, SM5 (DDC key hash: 1133A8E76AE282BFA23F4081A3134421DF8FA465), compiling. 
+[2021.11.11-15.41.00:305][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.11-15.41.00:306][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.11-15.41.00:306][804]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-15.41.00:306][804]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.11.11-15.41.01:293][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.11-15.41.01:293][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.11-15.41.01:293][805]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-15.41.01:294][805]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.11-15.41.01:294][805]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2021.11.11-15.41.01:294][805]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2021.11.11-15.41.01:294][805]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.00%
+[2021.11.11-15.41.01:294][805]LogShaderCompilers: Display: ================================================
+[2021.11.11-15.41.01:667][811]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.11.11-15.41.21:317][640]Job is a success!
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.051s
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:      Indirection Texture 16x32x16 = 0.0Mb
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 2.2Mb due to 0.010000 MinBrickError)
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:      Bricks at depth
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:          1: 17.3% covering 20.3% of volume
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:          2: 81.3% covering 1.5% of volume
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:      Bricks in each level
+[2021.11.11-15.41.21:581][641]LogVolumetricLightmapImport:          Chapter4_greybox2 			 150 bricks 	 100.0% (Persistent Level)
+[2021.11.11-15.41.22:490][641]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.11.11-15.41.22:491][641]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.11.11-15.41.22:491][641]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2021.11.11-15.41.22:491][641]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2021.11.11-15.41.22:491][641]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.11-15.41.22:491][641]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2021.11.11-15.41.22:491][641]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.11-15.41.22:491][641]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.11-15.41.22:491][641]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.11-15.41.22:491][641]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.11-15.41.22:491][641]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2021.11.11-15.41.22:491][641]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.11-15.41.22:691][641]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X64)
+[2021.11.11-15.41.22:875][641]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.11.11-15.41.22:875][641]Lightmass on LAPTOP-BPC12QII: 19.4 sec total, 478 ms importing, 61 ms setup, 4.02 sec photons, 14.7 sec processing, 0 ms extra exporting [719/719 mappings]. Threads: 1:43 min total, 1:00 min processing.
+[2021.11.11-15.41.22:881][641]LogStaticLightingSystem: Chapter4_greybox2_BuiltData storing lightmap data for 181 meshes in 4 LightmapResourceClusters (45.2 Meshes per cluster).
+[2021.11.11-15.41.22:987][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.11.11-15.41.23:185][641]LogStaticLightingSystem: Illumination: 27.5 sec (403 ms encoding lightmaps, 313 ms encoding shadowmaps)
+[2021.11.11-15.41.23:186][641]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (2.0 MB streaming, 4.0 MB non-streaming), 6 textures
+[2021.11.11-15.41.23:186][641]LogStaticLightingSystem: Shadowmap texture memory: 5.7 MB (0.3 MB streaming, 5.3 MB non-streaming), 2 textures
+[2021.11.11-15.41.23:233][641]DumpUnbuiltLightIteractions
+[2021.11.11-15.41.23:234][641]Lights with unbuilt interactions: 0
+[2021.11.11-15.41.23:234][641]
+[2021.11.11-15.41.23:234][641]Primitives with unbuilt interactions: 0
+[2021.11.11-15.41.23:357][641]LogTexture: Display: Building textures: NewReflectionComponentTexture38E85DFF44D07A378F1CA4BAEA69B189 (BGRA8, 128X128)
+[2021.11.11-15.41.23:415][642]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.11.11-15.41.23:416][642]MapCheck: New page: Chapter4_greybox2 - 11. nov. 2021, 17:41:23
+[2021.11.11-15.41.23:417][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb_196 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:417][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb2 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:417][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb3 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb4 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb5 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb6 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb7 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb8 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb9 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb10 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb11 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb12 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb13 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb14 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb15 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb16 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb17 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb18 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb19 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb20 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb21 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb22 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb23 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb24 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb25 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb26 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb27 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:418][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb28 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb29 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb30 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb31 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb32 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb33 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb34 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb35 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb36 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb37 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb38 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb39 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb40 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb41 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb42 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb43 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb44 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb45 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb46 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb47 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb48 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb49 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb50 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb51 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb52 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb53 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb54 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb55 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb56 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb57 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb58 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:419][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb59 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb60 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb61 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb62 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb63 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb64 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb65 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb66 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb67 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb68 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb69 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb70 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb71 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb72 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb73 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb74 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb75 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb76 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb77 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb78 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb79 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb80 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb81 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb82 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb83 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb84 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:420][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb85 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb86 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb87 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb88 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb89 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb90 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb91 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb92 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb93 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb94 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb95 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb96 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb97 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb98 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb99 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb100 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb101 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb102 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb103 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb104 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb105 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb106 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb107 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb108 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:421][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb109 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb110 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb111 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb112 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb113 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb114 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb115 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb116 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb117 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb118 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb119 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb120 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb121 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb122 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb123 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb124 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb125 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb126 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb127 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb128 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb129 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb130 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:422][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb131 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb132 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb133 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb134 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb135 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb136 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb137 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb138 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb139 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb140 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb141 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb142 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb143 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb144 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb145 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb146 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb147 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb148 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb149 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb150 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb151 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb152 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb153 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb154 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb155 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb156 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:423][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb157 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb158 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb159 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb160 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb161 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb162 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb163 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb164 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb165 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb166 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb167 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb168 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb169 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb170 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb171 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb172 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb173 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb174 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb175 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:424][642]MapCheck: Warning: Concrete_Barrier_LOD0_sepsb176 Static mesh actor has NULL StaticMesh property 
+[2021.11.11-15.41.23:425][642]MapCheck: Map check complete: 0 Error(s), 176 Warning(s), took 9,329ms to complete.
+[2021.11.11-15.41.38:091][492]LogSlate: Window 'Message Log' being destroyed
+[2021.11.11-15.41.38:097][492]LogSlate: Window 'Message Log' being destroyed
+[2021.11.11-15.41.39:541][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.11.11-15.41.39:832][573]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2B5DAE0374584BA159CEE1B9AD7154A18.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.umap'
+[2021.11.11-15.41.40:072][573]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2_BuiltData7AD0E09840592E8696026C94B39DEA88.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.uasset'
+[2021.11.11-15.41.40:092][573]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-15.41.40:092][573]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
+[2021.11.11-15.41.40:092][573]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
