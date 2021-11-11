@@ -3006,3 +3006,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-01.30.51:547][467]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-01.30.51:548][467]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
 [2021.11.11-01.30.51:548][467]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
+[2021.11.11-01.31.54:387][621]Cmd: DELETE
+[2021.11.11-01.31.54:387][621]Cmd: ACTOR DELETE
+[2021.11.11-01.31.54:408][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:408][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:408][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:409][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:410][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:411][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:412][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:413][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.54:424][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.11.11-01.31.54:428][621]LogEditorActor: Deleted 37 Actors (0.041 secs)
+[2021.11.11-01.31.59:564][215]Cmd: DELETE
+[2021.11.11-01.31.59:564][215]Cmd: ACTOR DELETE
+[2021.11.11-01.31.59:576][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.59:576][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.59:577][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.59:577][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.59:577][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.31.59:584][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.11.11-01.31.59:585][215]LogEditorActor: Deleted 5 Actors (0.020 secs)
+[2021.11.11-01.32.05:192][878]Cmd: DELETE
+[2021.11.11-01.32.05:192][878]Cmd: ACTOR DELETE
+[2021.11.11-01.32.05:205][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:205][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:205][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:205][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:205][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:205][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:206][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-01.32.05:212][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.11-01.32.05:214][878]LogEditorActor: Deleted 14 Actors (0.021 secs)
+[2021.11.11-01.32.13:934][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.11.11-01.32.14:077][918]LogSavePackage: Moving '../../../../../../Users/Jenny/Documents/NIKKO/NIKKO-G4/Saved/Chapter4_greybox239102B6743E5BD1C2048F5A572256D69.tmp' to '../../../../../../Users/Jenny/Documents/NIKKO/NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.umap'
+[2021.11.11-01.32.14:935][918]LogSavePackage: Moving '../../../../../../Users/Jenny/Documents/NIKKO/NIKKO-G4/Saved/Chapter4_greybox2_BuiltData38AE752C4DD982D3D596129B1F5B77C8.tmp' to '../../../../../../Users/Jenny/Documents/NIKKO/NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.uasset'
+[2021.11.11-01.32.14:963][918]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-01.32.14:963][918]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
+[2021.11.11-01.32.14:963][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
