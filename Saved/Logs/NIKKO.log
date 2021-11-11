@@ -1614,3 +1614,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-15.28.47:961][796]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-15.28.47:961][796]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
 [2021.11.11-15.28.47:961][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
+[2021.11.11-15.31.12:231][988]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.11-15.31.32:502][ 93]Cmd: TRANSACTION UNDO
+[2021.11.11-15.31.32:502][ 93]LogEditorTransaction: Undo Move Actors
+[2021.11.11-15.31.32:646][ 93]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.11.11-15.31.32:646][ 93]LogGeometryMode: Warning: Unable to resolve BoxBrush18 Brush in new BSP, see above
+[2021.11.11-15.31.32:646][ 93]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.11.11-15.31.53:557][236]Cmd: TRANSACTION UNDO
+[2021.11.11-15.31.53:557][236]LogEditorTransaction: Undo Move Actors
+[2021.11.11-15.31.53:701][236]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.11.11-15.31.53:701][236]LogGeometryMode: Warning: Unable to resolve BoxBrush18 Brush in new BSP, see above
+[2021.11.11-15.31.53:701][236]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.11.11-15.32.13:870][349]LogEditorViewport: Clicking Background
+[2021.11.11-15.32.17:532][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight11)
+[2021.11.11-15.32.20:526][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight11)
+[2021.11.11-15.32.21:165][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Straight11)
+[2021.11.11-15.32.26:076][ 45]Cmd: EDIT COPY
+[2021.11.11-15.32.26:462][ 68]Cmd: EDIT PASTE
+[2021.11.11-15.32.33:682][489]LogEditorViewport: Clicking Background
+[2021.11.11-15.32.37:636][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Ring16)
+[2021.11.11-15.32.44:263][109]LogEditorViewport: Clicking Background
+[2021.11.11-15.32.50:546][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modular_SewerKit_Ring15)
+[2021.11.11-15.32.54:340][699]LogEditorViewport: Clicking Background
+[2021.11.11-15.33.00:363][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.11.11-15.33.00:631][ 55]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2A529F2684FBDCFC06054DF838B0B1BAF.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.umap'
+[2021.11.11-15.33.00:828][ 55]LogSavePackage: Moving '../../../../../../NIKKO-G4/Saved/Chapter4_greybox2_BuiltDataAD40CD3F4E8199DF99217E9A786EA45B.tmp' to '../../../../../../NIKKO-G4/Content/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.uasset'
+[2021.11.11-15.33.00:862][ 55]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-15.33.00:863][ 55]LogContentValidation: Display: Validating World /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2.Chapter4_greybox2
+[2021.11.11-15.33.00:863][ 55]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Gruppe4/Levels/Greyboxing/Chapter4_greybox2_BuiltData.Chapter4_greybox2_BuiltData
